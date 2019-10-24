@@ -1,4 +1,4 @@
-.skill-icons {
+/* .skill-icons {
     width: 80%; 
     height: auto; 
     display: flex;
@@ -13,4 +13,12 @@
 
 .icon-img {
     width: 100px; 
+} */
+
+.skill-main {
+    background-color: #202020; 
+}
+
+.skill-main h1 {
+    color: white; 
 }
