@@ -4,9 +4,11 @@
 jQuery(document).ready(function($){
 'use strict';
   jQuery('body').backstretch([
-      "assets/img/bg/bg1.jpg"
-    , "assets/img/bg/bg2.jpg"
-    , "assets/img/bg/bg3.jpg"
+      "assets/img/bg/bg2.jpg"
+    , "assets/img/portfolio/folio02.jpg"
+    , "assets/img/portfolio/folio11.jpg"
+    , "assets/img/portfolio/folio15.jpg"
+    , "assets/img/portfolio/folio18.jpg"
   ], {duration: 5000, fade: 500});
 });
 
