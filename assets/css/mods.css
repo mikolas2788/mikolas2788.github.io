@@ -1,0 +1,16 @@
+.skill-icons {
+    width: 80%; 
+    height: auto; 
+    display: flex;
+    flex-wrap: wrap; 
+    margin: none!important; 
+}
+
+.skill-icon {
+    height: 100px; 
+    width: 100px; 
+}
+
+.icon-img {
+    width: 100px; 
+}

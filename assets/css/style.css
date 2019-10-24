@@ -107,7 +107,7 @@ body {
     background: #2980b9;
 }
 
-.navbar-nav, nav {
+.navbar-nav nav {
     float: center;
     /* display: flex;
     justify-content: center!important;  */
@@ -2810,7 +2810,7 @@ img.mfp-img {
         font-size: 30px;
         line-height: 38px;
     }
-    /* .navbar-toggle {
+    .navbar-toggle {
         padding: 5px;
         margin-top: 8px;
         margin-right: 0;
@@ -2841,7 +2841,7 @@ img.mfp-img {
         text-align: left;
         text-transform: uppercase;
         padding-left: 0;
-    } */
+    }
     .opaqued .navbar-brand h1 {
         margin: 17px 0;
     }
