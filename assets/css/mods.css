@@ -1,19 +1,7 @@
-/* .skill-icons {
-    width: 80%; 
-    height: auto; 
+.navbar-tabs {
     display: flex;
-    flex-wrap: wrap; 
-    margin: none!important; 
+    justify-content: center;
 }
-
-.skill-icon {
-    height: 100px; 
-    width: 100px; 
-}
-
-.icon-img {
-    width: 100px; 
-} */
 
 .skill-main {
     background-color: #202020; 
@@ -26,3 +14,10 @@
 .project-line {
     margin-bottom: 60px; 
 }
+
+.col-sm-10 {
+    margin-left: 0px; 
+    width: 100%; 
+}
+
+
