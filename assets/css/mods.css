@@ -1,6 +1,7 @@
 .navbar-tabs {
     display: flex;
     justify-content: center;
+    flex-wrap: wrap; 
 }
 
 .skill-main {
