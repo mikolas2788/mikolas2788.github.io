@@ -5,10 +5,10 @@ jQuery(document).ready(function($){
 'use strict';
   jQuery('body').backstretch([
       "assets/img/bg/bg2.jpg"
-    , "assets/img/portfolio/folio02.jpg"
-    , "assets/img/portfolio/folio11.jpg"
-    , "assets/img/portfolio/folio15.jpg"
-    , "assets/img/portfolio/folio18.jpg"
+    , "assets/img/bg/folio02.jpg"
+    , "assets/img/bg/folio11.jpg"
+    , "assets/img/bg/folio15.jpg"
+    , "assets/img/bg/folio18.jpg"
   ], {duration: 5000, fade: 500});
 });
 
@@ -58,7 +58,7 @@ jQuery(document).ready(function($){
 /*-----------------------------------------------------------------------------------*/
 jQuery(document).ready(function($){
 'use strict';
-  var $container = jQuery('#portfolio-content');  
+  var $container = jQuery('#skill-content');  
   $container.isotope({
     itemSelector: '.col-md-3',
     transformsEnabled: true,
@@ -116,7 +116,7 @@ jQuery(document).ready(function($){
 /*-----------------------------------------------------------------------------------*/
 jQuery(document).ready(function($){
 'use strict';
-  jQuery("#portfolio-carousel").owlCarousel({
+  jQuery("#skill-carousel").owlCarousel({
     items: 3,
     pagination: false,
     navigation: true,
