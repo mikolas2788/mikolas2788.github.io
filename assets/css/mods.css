@@ -32,3 +32,14 @@ html {
 .contact-footer {
     color: #f5f5f5; 
 }
+
+
+.grid figure img {
+    width: 150px;
+    height: 150px; 
+}
+
+.mask figcaption {
+    width: 150px;
+    height: 150px;
+}
