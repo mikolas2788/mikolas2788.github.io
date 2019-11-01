@@ -478,7 +478,6 @@ a:after {
 #footerwrap {
     margin-top: 20px;
     padding-top: 60px;
-    padding-bottom: 60px;
     border-bottom: none;
     text-align: center;
 }
@@ -2795,7 +2794,7 @@ img.mfp-img {
     }
     .page-section {
         padding-top: 90px;
-        padding-bottom: 90px;
+        padding-bottom: 60px;
     }
 }
 

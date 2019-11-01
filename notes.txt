@@ -7,3 +7,4 @@ To Do:
 //5. Add resume functionality to Hire Me
 6. Have navbar working in smaller screens
 7. Add functionality to scroll back to top button
+//8. Fix smooth scroll
