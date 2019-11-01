@@ -25,11 +25,10 @@ html {
     width: 100%; 
 }
 
-/* .contact-footer {
-    color: #f5f5f5; 
-} */
-
 .contact-footer h1 {
     color: #f5f5f5; 
 }
 
+.contact-footer {
+    color: #f5f5f5; 
+}
