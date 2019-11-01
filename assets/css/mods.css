@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth; 
+}
+
 .navbar-tabs {
     display: flex;
     justify-content: center;
