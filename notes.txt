@@ -3,7 +3,7 @@ To Do:
 1. Resize skills icons and modals
 2. Correct modal icons and content
 3. Add contact me details
-4. Add links to contact me icons
+//4. Add links to contact me icons
 //5. Add resume functionality to Hire Me
 6. Have navbar working in smaller screens
 7. Add functionality to scroll back to top button
