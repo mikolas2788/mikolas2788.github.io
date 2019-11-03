@@ -34,12 +34,12 @@ html {
 }
 
 
-.grid figure img {
+.skill-grid figure img {
     width: 150px;
     height: 150px; 
 }
 
-.mask figcaption {
+.skill-grid figcaption {
     width: 150px;
     height: 150px;
 }
