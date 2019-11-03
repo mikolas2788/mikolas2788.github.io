@@ -33,13 +33,14 @@ html {
     color: #f5f5f5; 
 }
 
-
 .skill-grid figure img {
     width: 150px;
     height: 150px; 
 }
 
 .skill-grid figcaption {
+    display: flex;
+    align-items: center;
     width: 150px;
     height: 150px;
 }
