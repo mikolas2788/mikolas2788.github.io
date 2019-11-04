@@ -8,6 +8,10 @@ html {
     flex-wrap: wrap; 
 }
 
+.hire-me {
+    margin-top: 10px; 
+}
+
 .skill-main {
     background-color: #202020; 
 }
@@ -77,3 +81,4 @@ html {
     font-weight: 500;
     margin-right: 40px;
 }
+

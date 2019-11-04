@@ -11,6 +11,6 @@ To Do:
 //9. Fix skill icon margins and center 
 //10. Fix modal mask content/icon center
 11. Add typewriter effect
-12. Have clicking on projects take you to live demo
-13. Add contact content
-14. Add resume/hire me button
+//12. Add contact content
+//13. Add resume/hire me button
+14. Add domain name
