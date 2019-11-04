@@ -65,3 +65,15 @@ html {
 .project-fig a {
     top: inherit; 
 }
+
+.contact-content {
+    display: flex;
+    flex-direction: row; 
+    justify-content: center; 
+}
+
+.contact-content p {
+    font-size: 20px;
+    font-weight: 500;
+    margin-right: 40px;
+}

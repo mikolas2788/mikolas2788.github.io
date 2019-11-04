@@ -5,9 +5,12 @@ To Do:
 //3. Add contact me details
 //4. Add links to contact me icons
 //5. Add resume functionality to Hire Me
-6. Have navbar working in smaller screens
+//6. Have navbar working in smaller screens
 //7. Add functionality to scroll back to top button
 //8. Fix smooth scroll
-8. Fix skill icon margins and center 
-9. Fix modal mask content/icon center
-10. Add typewriter effect
+//9. Fix skill icon margins and center 
+//10. Fix modal mask content/icon center
+11. Add typewriter effect
+12. Have clicking on projects take you to live demo
+13. Add contact content
+14. Add resume/hire me button
