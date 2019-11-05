@@ -14,3 +14,4 @@ To Do:
 //12. Add contact content
 //13. Add resume/hire me button
 14. Add domain name
+15. Add face picture icon
